@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Technically, A Socialist</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Posts on Technically, A Socialist</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>wat.tyler@tutamail.com (Wat Tyler)</managingEditor>
+    <webMaster>wat.tyler@tutamail.com (Wat Tyler)</webMaster>
+    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Welcome, neighbors. You are welcome here in the home of Wat Tyler - man of Kent, friend of John Ball, rebel; and, in modern days, socialist, rebel, engineer. It is my firm belief that technology is a tool, not a savior, and that the capitalist class sells us the lie of technological salvation only as a means to control us; and that the only way forward is class warfare, which the wealthy have been waging against us for centuries. Whether technology is a tool we can put to use, or a tool we must put down - that remains to be seen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Modern Enclosure</title>
+      <link>http://localhost:1313/posts/2026feb28/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/posts/2026feb28/</guid>
+      <description>&lt;p&gt;Have you ever taken a walk in the English countryside? Have you seen the gentle wrinkles in the soil, felt them rise and fall almost imperceptibly under your feet as you wonder what the sheep think of you? Have you wondered, &amp;ldquo;Where do these wrinkles come from?&amp;rdquo; You may know the answer; but even if you do not know the answer, and even if you come from some far-away land, this wrinkled soil is a part of your own history, because it is a part of the history of capitalism, and it tells a story of the loss of the commons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;This is an example of a custom shortcode that you can put right into your content.&#xA;You will need to add a form action to the the shortcode to make it work.&#xA;Check out &lt;a href=&#34;https://formspark.io/&#34; hreflang=&#34;en&#34; class=&#34;external&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Formspark&lt;/a&gt; for a simple, free form service.&lt;/p&gt;&#xA;&lt;p&gt;Ed theme is not strictly tied to any forms backend. You can easily use any backend&#xA;like &lt;a href=&#34;https://formspark.io/&#34; hreflang=&#34;en&#34; class=&#34;external&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Formspark&lt;/a&gt;, &lt;a href=&#34;https://formspree.io/&#34; hreflang=&#34;en&#34; class=&#34;external&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Formspree&lt;/a&gt;, &lt;a href=&#34;https://fabform.io/&#34; hreflang=&#34;en&#34; class=&#34;external&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;FabForm&lt;/a&gt; and so on just by changing the &lt;code&gt;formAction&lt;/code&gt; parameter&#xA;in the site configuration file.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Credits</title>
+      <link>http://localhost:1313/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/credits/</guid>
+      <description>&lt;h3 id=&#34;hahahugoshortcode46s0hbhb--software-engineer&#34;&gt;&lt;a href=&#34;https://www.linkedin.com/in/egrep/&#34; hreflang=&#34;en&#34; class=&#34;external&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Serghei Iakovlev&lt;/a&gt; | Software Engineer&lt;/h3&gt;&#xA;&lt;p&gt;Serghei Iakovlev is a software engineer with 20 years of experience in IT who enjoys finding elegant solutions to non-trivial problems. Serghei focused on the goal and driven by visual sophistication and laser-sharp precision, he takes pride in every finished project, and never stop learning along the way. Serghei work as the Head Of Development with 20 teams of 90+ engineers to develop &lt;a href=&#34;https://airslate.com&#34; hreflang=&#34;en&#34; class=&#34;external&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;airSlate&lt;/a&gt; &amp;mdash; better nocode workflow automation platform.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/search/</guid>
+      <description>&lt;div id=&#34;site-search&#34; class=&#34;search-form&#34;&gt;&#xA;    &lt;p&gt;To search the site, enter a search term.&lt;/p&gt;&#xA;    &lt;form role=&#34;search&#34; id=&#34;search-form&#34;&gt;&#xA;        &lt;div class=&#34;search-wrapper&#34;&gt;&#xA;            &lt;div class=&#34;search-container form-item&#34;&gt;&#xA;                &lt;input&#xA;                    autofocus&#xA;                    autocomplete=&#34;off&#34;&#xA;                    spellcheck=&#34;false&#34;&#xA;                    placeholder=&#34;&#34;&#xA;                    class=&#34;search-form-input form-input&#34;&#xA;                    aria-label=&#34;Search site&#34;&#xA;                    type=&#34;search&#34;&#xA;                    id=&#34;search&#34;&#xA;                    name=&#34;search&#34;&#xA;                    maxlength=&#34;128&#34;&gt;&#xA;            &lt;/div&gt;&#xA;            &lt;div class=&#34;search-error hide-element&#34;&gt;&#xA;                &lt;p class=&#34;search-error-message&#34;&gt;&lt;/p&gt;&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/form&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;section id=&#34;search-results&#34; class=&#34;hide-element&#34;&gt;&#xA;    &lt;div id=&#34;search-results-header&#34;&gt;&#xA;        &lt;div class=&#34;search-query search-query-right&#34;&gt;&#xA;            &lt;span id=&#34;results-count-text&#34;&gt;Found results:&lt;/span&gt;&#xA;            &lt;span id=&#34;results-count&#34;&gt;&lt;/span&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div id=&#34;search-results-body&#34; class=&#34;post-list&#34;&gt;&lt;/div&gt;&#xA;&lt;/section&gt;&#xA;&#xA;&lt;template&gt;&#xA;    &lt;article class=&#34;post&#34; data-score=&#34;&#34;&gt;&#xA;        &lt;header&gt;&#xA;            &lt;h2 class=&#34;post-title&#34;&gt;&#xA;                &lt;a href=&#34;#&#34; class=&#34;search-result-page-title&#34;&gt;&lt;/a&gt;&#xA;            &lt;/h2&gt;&#xA;        &lt;/header&gt;&#xA;        &lt;p class=&#34;post-content&#34;&gt;&lt;/p&gt;&#xA;    &lt;/article&gt;&#xA;&lt;/template&gt;&#xA;    &lt;script src=&#34;http://localhost:1313/js/lunr-bundle.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;http://localhost:1313/js/search-bundle.js&#34;&gt;&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title>Thank you</title>
+      <link>http://localhost:1313/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/thanks/</guid>
+      <description>&lt;p&gt;Your message will be sent within a short time.&#xA;We&amp;rsquo;ll answer as soon as possible.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;← Back to Home&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

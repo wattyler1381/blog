@@ -1,0 +1,3 @@
+# robots.txt file for "Technically, A Socialist" website, localhost:1313
+User-agent: *
+Disallow: /

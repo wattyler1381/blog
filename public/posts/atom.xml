@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="http://localhost:1313/">
+    <title>Posts - Technically, A Socialist</title>
+    <subtitle type="html"><![CDATA[Technology is a tool, not salvation. The capitalist class would have you believe otherwise only for their own gain.]]></subtitle>
+    <link href="/posts/" rel="alternate" type="text/html" title="html" />
+    <link href="/posts/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
+    <link href="/posts/atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/posts/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <icon>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
+    <logo>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
+    <author>
+        <name>Wat Tyler</name>
+        <email>wat.tyler@tutamail.com</email>
+    </author>
+    <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <id>urn:uuid:6d116a4d-807d-53e3-09c2-1fde53eae16b</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Socialism" x="y" />
+            
+        
+            
+            <category term="History" x="y" />
+            
+        
+            
+            <category term="Technofeudalism" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="http://localhost:1313/posts/2026feb28/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Modern Enclosure]]></title>
+        
+        
+        
+        <published>2026-02-28T00:00:00Z</published>
+        <updated>2026-02-28T00:00:00Z</updated>
+        <id>urn:uuid:94674a66-6abb-560f-39e3-8b87e04a84b8</id>
+        
+        <summary type="html"><![CDATA[<p>Have you ever taken a walk in the English countryside? Have you seen the gentle wrinkles in the soil, felt them rise and fall almost imperceptibly under your feet as you wonder what the sheep think of you walking right through their breakfast, lunch, and dinner? Have you wondered, &ldquo;Why does the soil do that?&rdquo; Even if you have never been to England, you may know the answer; and even if you do not know the answer, and you come from some far-away land, this wrinkled soil is a part of your own history, because it is a part of the history of capitalism, and thus the quick and quickening loss of whatever is left of the commons.</p>]]></summary>
+    </entry>
+</feed>

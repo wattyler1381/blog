@@ -1,0 +1,16 @@
+
+    /* TEAM */
+
+    Author: Wat Tyler
+    Contact: wat.tyler@tutamail.com
+    GitHub: @wattyler1381
+    From: Kent
+
+    /* SITE */
+
+    Last update: 2026/02/28
+    Language: English
+    Doctype: HTML5
+    Standards: HTML5, CSS3, Open Graph protocol, Schema.org
+    Components: Hugo, Ed Theme, Lunr.js
+    Hugo version: 0.157.0

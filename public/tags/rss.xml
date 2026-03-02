@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag cloud on Technically, A Socialist</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tag cloud on Technically, A Socialist</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>wat.tyler@tutamail.com (Wat Tyler)</managingEditor>
+    <webMaster>wat.tyler@tutamail.com (Wat Tyler)</webMaster>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>History</title>
+      <link>http://localhost:1313/tags/history/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/tags/history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Socialism</title>
+      <link>http://localhost:1313/tags/socialism/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/tags/socialism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technofeudalism</title>
+      <link>http://localhost:1313/tags/technofeudalism/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate><author>wat.tyler@tutamail.com (Wat Tyler)</author>
+      <guid>http://localhost:1313/tags/technofeudalism/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

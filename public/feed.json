@@ -1,0 +1,26 @@
+
+
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Technically, A Socialist",
+  "home_page_url": "http://localhost:1313/?utm_source=json_feed",
+  "feed_url": "http://localhost:1313/index.json",
+  "description": "Technology is a tool, not salvation. The capitalist class would have you believe otherwise only for their own gain.",
+  "icon": "http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png",
+  "favicon": "http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png",
+  "authors": [
+    {
+      "name": "Wat Tyler"
+    }
+  ],
+  "language" : "en",
+  "items": [
+    {
+      "id": "94674a66-6abb-560f-39e3-8b87e04a84b8",
+      "url": "http://localhost:1313/posts/2026feb28/?utm_source=json_feed",
+      "title": "Modern Enclosure",
+      "summary": "Have you ever taken a walk in the English countryside? Have you seen the gentle wrinkles in the soil, felt them rise and fall almost imperceptibly under your feet as you wonder what the sheep think of you? Have you wondered, \u0026ldquo;Where do these wrinkles come from?\u0026rdquo; You may know the answer; but even if you do not know the answer, and even if you come from some far-away land, this wrinkled soil is a part of your own history, because it is a part of the history of capitalism, and it tells a story of the loss of the commons.",
+      "date_published": "2026-02-28T00:00:00Z"
+    }
+  ]
+}

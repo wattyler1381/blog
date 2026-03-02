@@ -1,0 +1,3 @@
+# github.com/sergeyklay/gohugo-theme-ed v0.8.1-0.20250629070421-170d56ea2e17
+# github.com/olivernn/lunr.js v2.3.9+incompatible
+# github.com/MihaiValentin/lunr-languages v0.0.0-20220731202355-707574c524a6

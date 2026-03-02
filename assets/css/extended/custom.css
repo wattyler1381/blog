@@ -1,0 +1,23 @@
+/* Fix tag text colour being overridden by theme colour scheme.
+   The .theme-base-* .container a rule sets link colour site-wide,
+   which overrides the white text on tag badges. */
+[class*="theme-base"] .container .post-tags a {
+    color: #fff;
+}
+
+/* Stack tags above giscus, both centered. */
+.post-footer {
+    margin-top: 2rem;
+}
+
+.post-footer .post-tags {
+    position: static;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 0 1.5rem;
+}
+
+.post-footer .post-tags li {
+    float: none;
+}

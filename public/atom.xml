@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en" xml:base="http://localhost:1313/">
+    <title>Technically, A Socialist</title>
+    <subtitle type="html"><![CDATA[Technology is a tool, not salvation. The capitalist class would have you believe otherwise only for their own gain.]]></subtitle>
+    <link href="/" rel="alternate" type="text/html" title="html" />
+    <link href="/rss.xml" rel="alternate" type="application/rss+xml" title="rss" />
+    <link href="/manifest.webmanifest" rel="alternate" type="application/manifest+json" title="manifest" />
+    <link href="/atom.xml" rel="self" type="text/xml" title="atom" />
+    <link href="/feed.json" rel="alternate" type="application/feed+json" title="jsonfeed" />
+    <link href="/index.json" rel="alternate" type="application/json" title="json" />
+    <link href="/humans.txt" rel="alternate" type="text/plain" title="humanstxt" />
+    <icon>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</icon>
+    <logo>http://localhost:1313/img/open-graph-logo_hu_cfda06ea0adc9739.png</logo>
+    <author>
+        <name>Wat Tyler</name>
+        <email>wat.tyler@tutamail.com</email>
+    </author>
+    <generator uri="https://gohugo.io" version="0.157.0">Hugo</generator>
+    <updated>2026-02-28T00:00:00Z</updated>
+    <id>urn:uuid:6d116a4d-807d-53e3-09c2-1fde53eae16b</id>
+    <entry>
+        
+        <category term="posts" />
+        
+            
+            <category term="Socialism" x="y" />
+            
+        
+            
+            <category term="History" x="y" />
+            
+        
+            
+            <category term="Technofeudalism" x="y" />
+            
+        
+        <link rel="alternate" type="type/html" href="http://localhost:1313/posts/2026feb28/?utm_source=atom_feed" />
+        <title type="html"><![CDATA[Modern Enclosure]]></title>
+        
+        
+        
+        <published>2026-02-28T00:00:00Z</published>
+        <updated>2026-02-28T00:00:00Z</updated>
+        <id>urn:uuid:94674a66-6abb-560f-39e3-8b87e04a84b8</id>
+        
+        <summary type="html"><![CDATA[<p>Have you ever taken a walk in the English countryside? Have you seen the gentle wrinkles in the soil, felt them rise and fall almost imperceptibly under your feet as you wonder what the sheep think of you? Have you wondered, &ldquo;Where do these wrinkles come from?&rdquo; You may know the answer; but even if you do not know the answer, and even if you come from some far-away land, this wrinkled soil is a part of your own history, because it is a part of the history of capitalism, and it tells a story of the loss of the commons.</p>]]></summary>
+    </entry>
+</feed>
